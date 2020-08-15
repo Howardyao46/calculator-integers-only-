@@ -19,4 +19,3 @@ else:
   print()
   print('I don\'t understand! Check your operation')
   print('Your operation answer:', operation)
-
